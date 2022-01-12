@@ -1,0 +1,25 @@
+{
+  "name": "@pfearr/discordwebhook",
+  "version": "1.0.0",
+  "description": "Send Discord Webhooks Easily!",
+  "main": "webhook.js",
+  "scripts": {
+    "test": "node webhook.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PFearr/DiscordWebhook.git"
+  },
+  "keywords": [
+    "Discord",
+    "Webhooks",
+    "Discord",
+    "webhooks"
+  ],
+  "author": "PFearr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PFearr/DiscordWebhook/issues"
+  },
+  "homepage": "https://github.com/PFearr/DiscordWebhook#readme"
+}
